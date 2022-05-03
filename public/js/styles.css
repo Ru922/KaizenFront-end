@@ -13,6 +13,10 @@ body{
     background-repeat: no-repeat;
 }
 
+body a{
+    text-decoration-line: none;
+}
+
 .container-nav{
     margin-top: -42px;
 }
@@ -56,6 +60,8 @@ nav{
     
 }
 
+
+
 .btn-nav{
  
     font-size: 22px;
@@ -68,6 +74,8 @@ nav{
    
    
 }
+
+
 
 
 .title{
