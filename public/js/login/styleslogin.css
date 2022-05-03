@@ -73,6 +73,7 @@ container-form {
 
 .message {
   padding: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .message h2 {
@@ -84,12 +85,38 @@ container-form {
   margin-left: 540px;
 }
 
+.sign-up{
+  margin-left: -25px;
+  margin-top: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.welcome-back h2 {
+  font-size: 1.7rem;
+  padding: 1rem 0;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 550px;
+}
+
+.message-login{
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 480px;
+}
+
+
+
 .message p {
   padding: 5px;
   color: white;
   font-weight: bold;
   font-size: 25px;
-  margin-left: 450px;
+  margin-left: 440px;
 }
 
 .message button {
@@ -103,22 +130,15 @@ container-form {
   outline: none;
   cursor: pointer;
   margin-top: 1rem;
-  margin-left: 560px;
+  margin-left: 565px;
   transition: all .3s ease-in;
   color: black;
 }
-
-.message button:hover{
-  background-color: #6464f8;
-}
-
-
 
 .message a{
   text-decoration-line: none;
   color: black;
 }
-
 
 .formulario {
   width: 500px;
@@ -163,7 +183,7 @@ font-size: 25px;
  
   font-size: 22px;
   font-weight: bold;
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;
   padding: 6px;
   
   border-style: none;
